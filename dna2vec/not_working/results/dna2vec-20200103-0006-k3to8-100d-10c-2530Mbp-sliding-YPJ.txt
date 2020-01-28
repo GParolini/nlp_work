@@ -1,0 +1,1 @@
+[2020-01-03 00:06:52.635194] INFO: Generic: ./scripts/train_dna2vec.py -c configs/hg38-20161219-0153.yml
